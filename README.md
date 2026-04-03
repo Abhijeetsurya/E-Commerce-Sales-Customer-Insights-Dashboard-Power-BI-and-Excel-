@@ -103,6 +103,11 @@ The goal is to analyze sales performance, profitability, and customer behavior t
 ## 🚀 Conclusion
 
 This project demonstrates how data analysis can uncover key business problems and provide actionable insights to improve profitability and performance.
+## 📂 Project Structure
+- data/ → raw dataset  
+- analysis/ → Excel analysis  
+- dashboard/ → Power BI file  
+- docs/ → project documentation  
 
 ---
 
